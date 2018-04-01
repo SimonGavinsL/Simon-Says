@@ -4,21 +4,17 @@ title:  "Deployment Instructions"
 date:   2018-04-01 16:01:21 +0800
 categories: jekyll update
 ---
-Reference
+Reference:
 
-[Jekyll on Heroku | Heroku][jekyll-on-heroku]
+[Jekyll on Heroku][jekyll-on-heroku]
 
-
-
-Explanations
+Explanations:
 
 Older version of Ruby runs well. There is no need to install the latest version.
 
 The [ruby "2.4.2"] can be replaced by [ruby RUBY_VERSION] if it's not your wish to check its version.
 
-
-
-Deprecated
+Deprecated:
 
 I build one blog a year ago and took this article as reference. But it seems not working after Heroku updates itself.
 
