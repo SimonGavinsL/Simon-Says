@@ -17,8 +17,7 @@ The [ruby "2.4.2"] can be replaced by [ruby RUBY_VERSION] if it's not your wish 
 Deprecated:
 
 I build one blog a year ago and took this article as reference. But it seems not working after Heroku updates itself.
-
-/*Reference: [Jekyll on Heroku - James Ward][james-ward]*/
+[Reference: [Jekyll on Heroku - James Ward][james-ward]]
 
 [jekyll-on-heroku]: https://blog.heroku.com/jekyll-on-heroku
 [james-ward]: http://www.jamesward.com/2014/09/24/jekyll-on-heroku
