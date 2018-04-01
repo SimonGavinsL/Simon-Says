@@ -16,9 +16,7 @@
 title: Simon Says
 email: simongavinslee0013@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal blog of Simon Gavins Lee.
-  Occasionally update it with interesting articles.
-  Jekyll + Heroku
+  Personal Blog of Simon Gavins Lee
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  SimonGavinsL
