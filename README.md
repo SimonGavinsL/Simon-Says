@@ -4,5 +4,6 @@
 
 The repository stores the configs for Jekyll deployed to Heroku.
 
-$ brew install heroku/brew/heroku  
-$ gem install jekyll bundler
+Reference  
+
+[Jekyll on Heroku | Heroku](https://blog.heroku.com/jekyll-on-heroku)
